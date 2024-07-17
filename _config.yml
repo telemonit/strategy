@@ -1,0 +1,11 @@
+title: "telemonit strategy"
+description: "Our values, what we offer and how we will meet our customers in the next month and years, what is important and why?"
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false

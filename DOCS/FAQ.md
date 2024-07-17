@@ -1,22 +1,4 @@
-
-# [strategy.telemonit.com](http://strategy.telemonit.com) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/HEAD.md)
-
-Our values, what we offer and how we will meet our customers in the next month and years, what is important and why?
-
-## Menu [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/MENU.md)
-
-[telemonit.com](http://www.telemonit.com)
-+ [Offer](http://offer.telemonit.com)
-+ [Roadmap](http://roadmap.telemonit.com)
-+ [Strategy](http://strategy.telemonit.com)
-+ [docs](http://docs.telemonit.com)
-+ [logo](http://logo.telemonit.com)
-+ [identity](http://identity.telemonit.com)
-
- [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/PLAN.md)
-
-
-## Weitere Fragen [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/FAQ.md)
+## Weitere Fragen
 
 Hier sind eine kurze Zusammenfassung und einige Fragen, die Sie möglicherweise stellen möchten:
 
@@ -56,28 +38,3 @@ _Welche_ _Vorteile_ _bietet_ _das_ _**Premium-Support-Abonnement**_ _im_ _Vergle
 
 
 Ich hoffe, diese Antworten helfen Ihnen weiter. Wenn Sie weitere Fragen haben oder zusätzliche Informationen benötigen, stehe ich Ihnen gerne zur Verfügung.
-
-## [contribution](http://contribution.softreck.dev) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/COOPERATION.md)
-
-+ [issue](https://github.com/telemonit/strategy/issues/new)
-+ [edit](https://github.com/telemonit/strategy/edit/main/README.md)
-+ [git](https://github.com/telemonit/) 
-
- [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/FOOT.md)
-
-<script type="module">    
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({
-    startOnReady:true,
-    theme: 'forest',
-    flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-  });
-  mermaid.init(undefined, '.language-mermaid');
-</script>
- 
-
----
-+ Modular Documentation made possible by the [FlatEdit](http://www.flatedit.com) project.
