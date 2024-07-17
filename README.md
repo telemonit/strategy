@@ -1,5 +1,5 @@
 
-# [strategy.telemonit.com](http://strategy.telemonit.com) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/HEAD.md)
+## [strategy.telemonit.com](http://strategy.telemonit.com) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/HEAD.md)
 
 Our values, what we offer and how we will meet our customers in the next month and years, what is important and why?
 
@@ -13,7 +13,13 @@ Our values, what we offer and how we will meet our customers in the next month a
 + [logo](http://logo.telemonit.com)
 + [identity](http://identity.telemonit.com)
 
- [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/PLAN.md)
+ [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/EN/PLAN.md)
+
+
+ [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/EN/2024.md)
+
+
+ [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/EN/2025.md)
 
 
 ## Weitere Fragen [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/FAQ.md)
