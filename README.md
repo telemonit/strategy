@@ -15,6 +15,9 @@ Our values, what we offer and how we will meet our customers in the next month a
 + [logo](http://logo.telemonit.com)
 + [identity](http://identity.telemonit.com)
 
+## Co zostało wykonane [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/EN/DONE.md)
+
+
 **PLAN** [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/EN/PLAN.md)
 
 **What determines the strategy adopted by telemonit?**
@@ -40,59 +43,80 @@ These trends indicate the need for adaptation and innovation in the security and
 
 **2024** [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/EN/2024.md)
 
-In 2024, the strategy of the telemonit company focuses on offering additional features in existing surveillance systems. By leveraging existing automation marketplaces, we are working on an API interface that will be compatible with automation systems such as IFTTT (If This Then That). It is important to note that there are many platforms and marketplaces that offer similar integration capabilities. Here is a list of such marketplaces along with a brief description: [Marketplaces for Automation and Integration with API](PL/API-INTEGRATION.md)
+## 2024
 
-In addition to the API, we will need it to create mobile and web applications such as:
+In 2024, telemonit's strategy is to offer additional functionalities in existing monitoring systems.
+Using the existing automation marketplace
+We are working on an API that will be compatible with automation systems such as IFTTT (If This Then That),
+it is worth understanding that there are many platforms and marketplaces that offer similar integration opportunities.
+Below you will find a list of such marketplaces and their short description: [Marketplaces for Automation and API Integration](PL/API-INTEGRATION.md)
 
-- [videoInspect](http://www.videoinspect.com) - Video Inspection System Analysis, Automatic Analysis, Repair, and Configuration
-- [medianon](http://www.medianon.com) - Anonymization of Data in Video Materials
-- [voco.camera](http://www.voco.camera) - Voice-Controlled Camera - API needed for voice communication with cameras
-- [cameraMonit](http://www.cameramonit.com) - Voice-Based Camera Alerts through Various Communication Channels
-- [teleoperator.app](http://www.teleoperator.app) - Application for managing and handling incidents
+In addition, the API will be needed to create mobile and web applications such as:
++ [videoInspect](http://www.videoinspect.com) - Inspection of video materials, generating a description of events in the material
++ [medianon](http://www.medianon.com) - Anonymization of data in video materials
++ [voco.camera](http://www.voco.camera) - Voice-Controlled Camera - API needed for voice conversation with cameras
++ [cameraMonit](http://www.cameramonit.com) - Voice notification of events via various messengers
++ [surveil.camera](http://www.surveilcamera.com) - SaaS Subscription Services
++ [kamera.land](http://www.kamera.land) - Online store
++ [teleoperator.app](http://www.teleoperator.app) - Application for management and incident handling
++ [salomos](http://www.salomos.com) - Local LLM/RAG (Text to SQL) in the form of API in the SaaS model, brain for decision-making in case of incidents
 
 ### 2024 Q3
 
-API Interface and Web Application for [videoinspect.com](http://www.videoinspect.com) to analyze multi-stream video materials
+API interface and WEB application [videoinspect.com](http://www.videoinspect.com) for analyzing many hours of video materials
++ analysis of metadata and frames to determine whether the video has been previously modified
++ event analysis in video material
++ preparation of documentation in PDF format with attached video frames
++ implementation on marketplace platforms in the form of SaaS offers
 
-- Analyze metadata and frames to determine if the video has been previously modified
-- Analyze video events
-- Generate a PDF document with attached video frames
-- Implementation on marketplace platforms as SaaS offers
+API Interface and WEB Application [medianon](http://www.medianon.com) - Data anonymization in video materials
++ similarly to [videoInspect](http://www.videoinspect.com), it will be possible to deliver material via the Web interface
++ anonymization according to the guidelines marked in the form
++ on request, the possibility of anonymizing special cases via telemonitor
 
-API Interface and Web Application for [medianon](http://www.medianon.com) - Anonymization of Data in Video Materials
 
-- Similar to [videoInspect](http://www.videoinspect.com) with a web interface to upload video material
-- Anonymization based on the guidelines specified in the form
-- On request, the possibility of anonymizing specific cases related to telemonit
+API [voco.camera](http://www.voco.camera) - Voice-Controlled Camera
++ creating an API needed for voice conversations with cameras
++ Interface for Mobile and Web applications
++ implementation on marketplace platforms in the form of SaaS offers
 
-API for [voco.camera](http://www.voco.camera) - Voice-Controlled Camera
 
-- Create an API needed for voice communication with cameras
-- Interface for mobile and web applications
-- Implementation on marketplace platforms as SaaS offers
-
-Mobile Application [cameraMonit](http://www.cameramonit.com)
-
-- Voice-based alerts for events
-- Integration with communication channels: Telegram, WhatsApp
-- Integration with external AI APIs
+mobile application [cameraMonit](http://www.cameramonit.com)
+- Voice notification of events
+- Integration with messengers: Telegram, WhatsApp
+- Integration with external APIs for AI
 
 ### 2024 Q4
 
-[teleoperator.app](http://www.teleoperator.app) - Application for managing and handling incidents
+SaaS Subscription Services [surveil.camera](http://www.surveilcamera.com)
++ Presentation of the capabilities of the telemonit system in live mode
++ Offer to detect incidents in local and remote systems from 1 to several cameras
 
-- Helpdesk for incidents for different customer groups
-- Information provided from external systems or CameraMind.
-- Automatic incident reporting to security and services
-- Managing information flow
-- Archiving data from each day
-- Anonymization of data
+
+Shop [kamera.land](http://www.kamera.land)
++ Shop with mobile towers and additional services
++ Ordering assembly and leasing services
++ Contact to partners and local technicians
+
+
+[teleoperator.app](http://www.teleoperator.app) - Application for management and incident handling
++ Helpdesk in case of incidents for various customer groups
++ Information provided from an external system or from CameraMind.
++ automatic reporting of incidents to security and services
++ information flow management
++ archiving daily data
++ data anonymization
+
+
+[salomos](http://www.salomos.com) - Local LLM/RAG (Text to SQL) in the form of API in the SaaS model
++ brain to make decisions in case of incidents
++ locally to run on devices such as RPI, minipc
 
 ## 2025 [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/EN/2025.md)
 
 Only after entering the global market through marketplaces with SaaS-based services, will it be possible to utilize the already proven and established infrastructure for future projects:
 
-+ [cameraInspect](http://www.camerainspect.com) - Video inspection system analysis, automatic analysis, repair, and configuration
++ [cameraInspect](http://www.camerainspect.com) - Video inspection system analysis, automatic repair, and configuration
 + [cameraMind](http://www.cameramind.com) - Local voice communication system with camera monitoring systems
 
 ### 2025 Q1
@@ -104,13 +128,30 @@ A web application for [cameraInspect](http://www.camerainspect.com) to analyze t
 - Camera management
 - As a plugin for cloud platforms to expand the current system
 
-### 2025 Q2
 
 A computer hardware system for [cameraMind](http://www.cameramind.com) - Local voice communication system with camera monitoring systems.
 
 - Computing power sufficient to analyze video from 10 cameras in 4k/30fps quality
 - Integration with the existing camera monitoring system at the local network level
 - Integration with the teleoperator application for incident handling and infrastructure 
+
+### 2025 Q2
+
+Based on the experience gained in creating services and applications,
+you will be able to prepare a dedicated offer for individual recipients:
+
+Dedicated voice systems:
++ [voco.chat](http://www.voco.chat)
++ [voco.camera](http://www.voco.camera)
++ [voco.company](http://www.voco.company)
++ [voco.services](http://www.voco.services)
+
+
+Dedicated vision systems for security and incident management
++ [vizio.market](http://www.vizio.market)
++ [vizio.farm](http://www.vizio.farm)
++ [vizio.city](http://www.vizio.city)
++ [vizio.city](http://www.vizio.city)
 
  [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/FOOT.md)
 

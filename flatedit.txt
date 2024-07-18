@@ -1,5 +1,6 @@
 DOCS/HEAD.md
 DOCS/MENU.md
+EN/DONE.md
 EN/PLAN.md
 EN/2024.md
 EN/2025.md
