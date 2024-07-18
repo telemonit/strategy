@@ -48,7 +48,7 @@ In addition to the API, we will need it to create mobile and web applications su
 - [medianon](http://www.medianon.com) - Anonymization of Data in Video Materials
 - [voco.camera](http://www.voco.camera) - Voice-Controlled Camera - API needed for voice communication with cameras
 - [cameraMonit](http://www.cameramonit.com) - Voice-Based Camera Alerts through Various Communication Channels
-- [teleoperator.app](http://www.teleoperator.com) - Application for managing and handling incidents
+- [teleoperator.app](http://www.teleoperator.app) - Application for managing and handling incidents
 
 ### 2024 Q3
 
@@ -79,7 +79,7 @@ Mobile Application [cameraMonit](http://www.cameramonit.com)
 
 ### 2024 Q4
 
-[teleoperator.app](http://www.teleoperator.com) - Application for managing and handling incidents
+[teleoperator.app](http://www.teleoperator.app) - Application for managing and handling incidents
 
 - Helpdesk for incidents for different customer groups
 - Information provided from external systems or CameraMind.

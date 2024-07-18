@@ -14,7 +14,7 @@ Ponadto API będzie potrzebne to stworzenia aplikacji mobilnych i webowych takic
 + [medianon](http://www.medianon.com) - Anonimizacja danych w materiałach video
 + [voco.camera](http://www.voco.camera) - Voice-Controlled Camera - API potrzebne do rozmowy głosowej z kamerami
 + [cameraMonit](http://www.cameramonit.com) - Głosowe powiadamianie o zdarzeniach poprzez różne komunikatory
-+ [teleoperator.app](http://www.teleoperator.com) - Aplikacja do zarządzania i obsługą incydentów
++ [teleoperator.app](http://www.teleoperator.app) - Aplikacja do zarządzania i obsługą incydentów
 
 
 #### 2024 Q3
@@ -46,7 +46,7 @@ Aplikacja mobilna [cameraMonit](http://www.cameramonit.com)
 
 #### 2024 Q4
 
-[teleoperator.app](http://www.teleoperator.com) - Aplikacja do zarządzania i obsługą incydentów
+[teleoperator.app](http://www.teleoperator.app) - Aplikacja do zarządzania i obsługą incydentów
 + Helpdesk przy incydentach dla różnych grup klientów
 + Informacje dostarczone z zewnętrznego systemu lub z CameraMind.
 + zgłaszanie automatycznym incydentów do ochrony i służb
