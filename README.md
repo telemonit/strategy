@@ -7,7 +7,6 @@ Our values, what we offer and how we will meet our customers in the next month a
 
 ## Menu [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:telemonit/strategy/edit/main/DOCS/MENU.md)
 
-[telemonit.com](http://www.telemonit.com)
 + [Offer](http://offer.telemonit.com)
 + [Roadmap](http://roadmap.telemonit.com)
 + [Strategy](http://strategy.telemonit.com)
@@ -49,7 +48,7 @@ In 2024, telemonit's strategy is to offer additional functionalities in existing
 Using the existing automation marketplace
 We are working on an API that will be compatible with automation systems such as IFTTT (If This Then That),
 it is worth understanding that there are many platforms and marketplaces that offer similar integration opportunities.
-Below you will find a list of such marketplaces and their short description: [Marketplaces for Automation and API Integration](PL/API-INTEGRATION.md)
+Below you will find a list of such marketplaces and their short description: [Marketplaces for Automation and API Integration](EN/API-INTEGRATION.md)
 
 In addition, the API will be needed to create mobile and web applications such as:
 + [videoInspect](http://www.videoinspect.com) - Inspection of video materials, generating a description of events in the material

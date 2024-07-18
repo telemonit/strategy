@@ -1,6 +1,5 @@
 ## Menu
 
-[telemonit.com](http://www.telemonit.com)
 + [Offer](http://offer.telemonit.com)
 + [Roadmap](http://roadmap.telemonit.com)
 + [Strategy](http://strategy.telemonit.com)
