@@ -25,6 +25,6 @@ I got involved in two projects to gain international experience and contacts:
 
 ### Marketing
 
-+ [x] blog + newsletter [anonimizator.pl](http://anonimizator.pl) in order to acquire partners for cooperation in Poland
++ [x] blog + newsletter [anonimizacja.pl](http://anonimizacja.pl) in order to acquire partners for cooperation in Poland
 + [x] CCTV market report, (not yet visible to visitors) [cctv market report](https://www.teleoperator.info/)
 + [x] telemonit company profile + posts on [linkedin telemonit](https://de.linkedin.com/company/telemonit)
