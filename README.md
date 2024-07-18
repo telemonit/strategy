@@ -137,7 +137,7 @@ A computer hardware system for [cameraMind](http://www.cameramind.com) - Local v
 ### 2025 Q2
 
 Based on the experience gained in creating services and applications,
-you will be able to prepare a dedicated offer for individual recipients:
+we will be able to prepare a dedicated offer for individual recipients:
 
 Dedicated voice systems:
 + [voco.chat](http://www.voco.chat)
