@@ -25,7 +25,7 @@ Since May, the following has been done:
 + [x] Purchase of Internet domains for projects related to monitoring, vision systems and alternatives
 
 
-### Economic activity
+### Another activity
 + [x] training on doing business in Germany
 + [x] private German language lessons
 + [x] preparation of the company's infrastructure with a server and open source projects
