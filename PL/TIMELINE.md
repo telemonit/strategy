@@ -20,7 +20,7 @@ Ponadto API będzie potrzebne to stworzenia aplikacji mobilnych i webowych takic
 #### 2024 Q3
 
 Interfejs API i Aplikacja WEB [videoinspect.com](http://www.videoinspect.com) do analizy wielogodzinnnych materiałów video
-+ analiza metadanych oraz klatek, by określich czy video było wcześniej modyfikowane
++ analiza metadanych oraz klatek, by określić czy video było wcześniej modyfikowane
 + analiza zdarzeń w materile video
 + przygotowanie dokumentacji w formacie pdf z załączonymi klatkami z materiału video
 + implementacja na oplatformach marketplace w formie ofert SaaS
